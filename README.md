@@ -8,7 +8,7 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="https://www.linkedin.com/in/abranlezama/">
          <img alt="linkedin" title="Lets connect on Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-236ad3?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
    <a href="https://twitter.com/Abran_fcsd">
-         <img alt="twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+         <img alt="twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    </p>
 
 ### 🧰 Languages and Tools
