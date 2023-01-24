@@ -5,9 +5,9 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
    <p align="left">
-      <a href="https://www.linkedin.com/in/abranlezama/">
+      <a target="_blank" href="https://www.linkedin.com/in/abranlezama/">
          <img alt="linkedin" title="Lets connect on Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-236ad3?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
-   <a href="https://twitter.com/Abran_fcsd">
+   <a target="_blank" href="https://twitter.com/Abran_fcsd">
          <img alt="twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    </p>
 
