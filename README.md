@@ -30,4 +30,8 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/stay-fcsd"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=stay-fcsd&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
