@@ -2,7 +2,7 @@
 
 **`Backend Software Engineer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I am a recently Computer Science college graduate with an interest in backend development. I have had the opportunity to explore fields like Machine Learning and Front-end development through university courses, projects, and internships. However, I enjoy the most working on backend applications and learning how systems communicate with each other. My main tech stack includes Java, the Spring Framework, Javascript, and React JS. One thing about me is that I always try to keep learning new things. Currently, I am focusing on building fully tested applications following both monolithic and microservices architectures. 
 
    <p align="left">
       <a target="_blank" href="https://www.linkedin.com/in/abranlezama/">
