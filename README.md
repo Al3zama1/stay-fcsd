@@ -18,8 +18,8 @@ I am a recently Computer Science college graduate with an interest in backend de
 [![HTML Badge](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#)
 [![CSS Badge](https://img.shields.io/badge/-HTML5-239120?style=for-the-badge&labelColor=black&logo=html5&logoColor=3C873A)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)](#)
-[![CSS Badge](https://img.shields.io/badge/-Bash-green?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=white)](#)
-
+[![Bash Badge](https://img.shields.io/badge/-Bash-green?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=white)](#)
+[![Github Badge](https://img.shields.io/badge/-Github-100000?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
 
 
 [//]: # (<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>)
