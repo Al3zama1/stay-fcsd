@@ -2,7 +2,7 @@
 
 **`Java Back End Developer`**
 
-I am a recently Computer Science college graduate with an interest in backend development. I have had the opportunity to explore fields like Machine Learning and Front-end development through university courses, projects, and internships. However, I enjoy the most working on backend applications and learning how systems communicate with each other. My main tech stack includes Java, the Spring Framework, Javascript, and React JS. One thing about me is that I always try to keep learning new things.
+I am a recently Computer Science college graduate with an interest in backend development. I have had the opportunity to explore fields like Machine Learning, Front End, and Back End development through university courses, projects, and internships. However, I enjoy the most working on backend applications and learning how systems communicate with each other. My main tech stack includes Java, the Spring Framework, Javascript, and React JS. One thing about me is that I always try to keep learning new things.
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Abran_fcsd)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abranlezama/)
