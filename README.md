@@ -8,6 +8,8 @@ I am a recently Computer Science college graduate with an interest in backend de
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abranlezama/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lezama.abran@gmail.com)
 
+[website]: https://abranlezama.com
+
 ---
 
 ### 🧰 Languages and Tools
@@ -33,6 +35,4 @@ I am a recently Computer Science college graduate with an interest in backend de
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
 
-#
 
-[website]: https://abranlezama.com
